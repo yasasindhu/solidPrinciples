@@ -1,0 +1,57 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•÷øşÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ğÛ²¸øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(º½¼ÿıÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(Õ½Õİ
+J
+java:S6212"/Declare this local variable with "var" instead.(˜™»—şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷Û„ª
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÆ¡ûÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ı®íÕúÿÿÿÿ
+I
+java:S6212"/Declare this local variable with "var" instead.(åZ8»Ïã×“/
+L
+java:S6212"/Declare this local variable with "var" instead.(î¹ˆ8Ñ˜³¼“/
+W
+java:S6213":Rename this variable to not match a restricted identifier.(î¹ˆ8¤À¼“/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(À–¯è
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡îÈüÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ìõĞ&
+J
+java:S6212"/Declare this local variable with "var" instead.(•÷øşÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(õ—û—ıÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(“Ì„×
+S	java:S106("9Replace this use of System.out or System.err by a logger.(õ—û—ıÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(“Ì„×
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ÕÏÛĞ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(á’°˜üÿÿÿÿ
+J
+java:S6212."/Declare this local variable with "var" instead.(Æ¾‹Æıÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(Ô³Å™úÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(Ô³Å™úÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(—Êğøÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(—ëİµüÿÿÿÿ
+J
+java:S6212:"/Declare this local variable with "var" instead.(†ëÀàüÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ûàÁ¢ıÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ü²ğóùÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(šß¢¥şÿÿÿÿ
+J
+java:S6212E"/Declare this local variable with "var" instead.(‰ğÙØıÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(Ú¦¨ÿÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(Ú¦¨ÿÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(ÏƒËÕùÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(›Åç‚şÿÿÿÿ
+J
+java:S6212P"/Declare this local variable with "var" instead.(ø½‘Áüÿÿÿÿ
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(ˆá÷üÿÿÿÿ8£µ°¼“/
+L
+java:S6212T"/Declare this local variable with "var" instead.(È­8£µ°¼“/
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(¿ÁıËıÿÿÿÿ8¤µ°¼“/
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(ˆá÷üÿÿÿÿ8¥µ°¼“/
+L
+java:S6212Z"/Declare this local variable with "var" instead.(È­8¥µ°¼“/
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(¿ÁıËıÿÿÿÿ8¦µ°¼“/
